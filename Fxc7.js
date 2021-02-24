@@ -72,8 +72,8 @@ name = "~ IRIENE BOT"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN IRIENEBOT😁"
 rmenu = "HAI TEMEN IRIENEBOT👋 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
-limitt = 10
-memberLimit = 2
+limitt = 25
+memberLimit = 40
 ban = []
 premium = ["6285751928963@s.whatsapp.net"]
 
